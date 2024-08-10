@@ -1,0 +1,13 @@
+name = "Create Cafe"
+filename = "createcafe-1.2.4-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/O3hKBfwC/versions/Zj19wiTH/createcafe-1.2.4-1.20.1.jar"
+hash-format = "sha1"
+hash = "d7f48c95833c8d83f2d9f8240819f2e9ee8dc3c0"
+
+[update]
+[update.modrinth]
+mod-id = "O3hKBfwC"
+version = "Zj19wiTH"

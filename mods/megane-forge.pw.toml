@@ -1,0 +1,13 @@
+name = "Megane: Forge"
+filename = "megane-forge-20.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcvCiEEP/versions/l5X5UdFL/megane-forge-20.1.1.jar"
+hash-format = "sha1"
+hash = "56dbaceb9a337a6f170e29c1b79e41243bc133c4"
+
+[update]
+[update.modrinth]
+mod-id = "pcvCiEEP"
+version = "l5X5UdFL"
