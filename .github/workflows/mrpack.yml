@@ -9,7 +9,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
     - name: Download packwiz
-      uses: aochmann/actions-download-artifact@v1
+      uses: aochmann/actions-download-artifact@v1.0.4
       with:
         repo: packwiz/packwiz
         name: Linux 64-bit x86
