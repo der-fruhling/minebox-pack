@@ -17,7 +17,7 @@ jobs:
         path: /tmp
     - name: Build Pack
       run: |
-        /tmp/packwiz modrinth export -o minebox.mrpack
+        chmod +x /tmp/packwiz && /tmp/packwiz modrinth export -o minebox.mrpack
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
       with:
