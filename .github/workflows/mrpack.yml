@@ -1,0 +1,27 @@
+on: [push]
+
+name: Build Modpack
+
+jobs:
+  build-pack:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    - name: Download packwiz
+      uses: aochmann/actions-download-artifact@v1
+      with:
+        repo: packwiz/packwiz
+        name: Linux 64-bit x86
+        latest: true
+        path: /usr/bin
+    - name: Build Pack
+      run: |
+        /usr/bin/packwiz modrinth export -o minebox.mrpack
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: Minebox Modrinth Pack
+        path: minebox.mrpack
+        if-no-files-found: error
+    
