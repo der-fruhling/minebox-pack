@@ -1,1 +1,2 @@
 - **Removed:** 3D Skin Layers _(automaton)_
+- **Added:** 3D Skin Layers _(automaton)_

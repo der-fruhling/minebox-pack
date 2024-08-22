@@ -461,6 +461,11 @@ file = "config/waterdripsound-client.toml"
 hash = "36d42d33c00b75f2189330c85f0648446b657f5435ba5fb199e765636edae787"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "4fd5e31753577838dc7de53fde5de6bba07d7ed75f9f231100b42a89c0e13d70"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
