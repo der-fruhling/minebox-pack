@@ -596,6 +596,11 @@ hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "a3131538ba20d6dbd46dc2b9a2084994aac6ce6667d50d21904170a26d072833"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "c6986341022a2e7dac13d39f85e2e93d5960e2f84a3e43c5bc83a98ad378f363"
 metafile = true
