@@ -1,0 +1,1 @@
+- **Added:** Immersive Aircraft _(automaton)_
