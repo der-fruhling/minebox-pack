@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "aac16d75949e7a4c6a36987cf931169af3edade60ae52888f22317208aad9801"
+hash = "83f1f089a96f0d89743702337cf8064ec676e7e4b9c19019530418785a0711d1"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "4e3b20e98a28cb23da917f3bd20d4ecc7edc225deda25afa4f71d5e4be2a8658"
+hash = "e37b37c2a89be3eff9ae1399adb69e9d9d148de9c1c008612c9ff00a08256cd3"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "a3131538ba20d6dbd46dc2b9a2084994aac6ce6667d50d21904170a26d072833"
+hash = "2a5a4a57dde0509b1abeabe8e3e033881d71f0cbd00937e6b6c31bde139108e1"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-tfmg.pw.toml"
-hash = "6d54b9a57853c947f1246edbfb504aa780df7b9199d0b959751fbfcc26e23bc8"
+hash = "49e69a8e6047e8942ccaafca37bc78827f1ef9d0be76d9f57b209edc25cc29bd"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "3220cd337e57ce91f3afc891fc3c982b0909512614883212c50047550321d8df"
+hash = "7904b90959114c56ada031802a4d1097fd716964c7c3624eae9fabf1b23020d0"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "37f4f289418f91d8740383fb80f17864c08ffae8278d88184e653f60329216e9"
+hash = "1357eeb4a0f06ab3cccd35a209f20b47e6dc9e11f8e9e97a66eddb964f408c49"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fb053359846dd6acbe6c5781c7da0fec638142e1842d9d08a5d6395022614bfc"
+hash = "a731e1debdaf0ef902814995c8bc9508bcd15e4ab876f3155ede4f37983fee00"
 metafile = true
 
 [[files]]
@@ -827,12 +827,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f67d69b448e8e57500a95b206ed0d227d29c0b8252dd20933e2ebc242703ae55"
+hash = "198f1556d7bb15f0a62ef990cbcb9cdef6e6430e25c7094a6c7abe58ac388d9d"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0e2405909c35aad4f2b5184470ab2262032b7814ff515edca9950815a85b63e7"
+hash = "d647d2a0f1e416b4866b05cdbd33977627ee24d6071b13860f4e328b77e50a38"
 metafile = true
 
 [[files]]
@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "706d6672573487080de5a3008b9f97a81c2405ef8aab8be82cb6416b7d84608a"
+hash = "665a95a28b6f743bb7c9b8f5e184e34cb6f9d634e9dd5263706a40e2d65c70eb"
 metafile = true
 
 [[files]]
@@ -932,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
+hash = "f3c45080e81efae68d313fd410ee80be56fb926b8580a8b509020fd611e3ffee"
 metafile = true
 
 [[files]]
@@ -972,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "881da71e6dea9fdf0c562f414313c651954c26b9e7f997b72c8d82b7e9923e6b"
+hash = "203b95da689f38eec737c0a2c9f5ee2e95dd9c6b930fe88678e4e608ea49cee3"
 metafile = true
 
 [[files]]
