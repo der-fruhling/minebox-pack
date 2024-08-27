@@ -1,1 +1,3 @@
 - **Added:** Immersive Aircraft _(automaton)_
+- **Added:** Create Big Cannons _(automaton)_
+- **Added:** Create: Pattern Schematics _(automaton)_

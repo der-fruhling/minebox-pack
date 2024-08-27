@@ -586,6 +586,11 @@ hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "4e3b20e98a28cb23da917f3bd20d4ecc7edc225deda25afa4f71d5e4be2a8658"
+metafile = true
+
+[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "8b85afd6305d38c6bbc11756a004ec9ea1066734eb2bf41970fb0392fa7fca9e"
 metafile = true
@@ -593,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "a3131538ba20d6dbd46dc2b9a2084994aac6ce6667d50d21904170a26d072833"
 metafile = true
 
 [[files]]
