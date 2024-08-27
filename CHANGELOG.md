@@ -1,3 +1,9 @@
 - **Added:** Immersive Aircraft _(automaton)_
 - **Added:** Create Big Cannons _(automaton)_
 - **Added:** Create: Pattern Schematics _(automaton)_
+- **Added:** Figura
+- **Added:** Concentration
+- maybe added more idk?!
+- **Removed:** Show me your skin
+- **Updated:** Forge 47.3.6
+- **Updated:** Many mods
