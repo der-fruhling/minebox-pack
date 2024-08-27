@@ -1,0 +1,1 @@
+- **Added:** Create: Pattern Schematics _(automaton)_
