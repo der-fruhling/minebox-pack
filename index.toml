@@ -70,7 +70,7 @@ hash = "3aaec8222e5e957858c8931cd1e99b2367107d28954f6dfb7b8426891b95086a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "8e21d1921a586849b35471c49a6f5afeb37c18e4577c2ba5fee8a02be5826b61"
+hash = "1c9ae2155a72872aab1718ca96913f95b37aa92628ea3dcb6c0e44bc96c60b75"
 
 [[files]]
 file = "config/canary.properties"
@@ -978,6 +978,10 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "203b95da689f38eec737c0a2c9f5ee2e95dd9c6b930fe88678e4e608ea49cee3"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a2f444879a5065209907b9c7a32c7de6f9c38f52eaab859ae9f2183c7615c90d"
 
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
