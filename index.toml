@@ -70,7 +70,7 @@ hash = "3aaec8222e5e957858c8931cd1e99b2367107d28954f6dfb7b8426891b95086a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1c9ae2155a72872aab1718ca96913f95b37aa92628ea3dcb6c0e44bc96c60b75"
+hash = "8aee9211b0e653f629edaa328cab81b56efeace6f03e585a421b890316124f4f"
 
 [[files]]
 file = "config/canary.properties"
@@ -465,6 +465,126 @@ file = "config/waterdripsound-client.toml"
 hash = "13f86412ab6df57432d4b9e456ee5b16ed951a3394414670fecd4042b6207029"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/de_de.json"
+hash = "6e768b0fb24b40fe12b7d815dcbbfa8e7e20e1be92581764f11f72332ec32bf4"
+
+[[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "8596da1e6b90d5d8e762e322fc1489ce0e4528b696c94321b4ad318bc18f7069"
+
+[[files]]
+file = "kubejs/assets/ticketing/models/block/ticket_machine_with_ticket.json"
+hash = "d4a6087d65f3f9c3e63dd5ef071fe8b6178f087cb2efbe27afe1b0c44c17b7fa"
+
+[[files]]
+file = "kubejs/assets/ticketing/models/block/ticket_machine_without_ticket.json"
+hash = "36d51e972f1f15e35d80c767bc7a691357f093ecb6350ab00bc25c98f4ed1c7a"
+
+[[files]]
+file = "kubejs/assets/ticketing/models/block/ticket_reader.json"
+hash = "df853a005ae962a9a797cff1b6f88056fc1291c6a3dc78f2b473342a0d37a55e"
+
+[[files]]
+file = "kubejs/assets/ticketing/models/block/ticket_reader_powered.json"
+hash = "b0358721a246c3fe5f5127dcfb69bc332461d10a9b0c08cb4432bbc30f698842"
+
+[[files]]
+file = "kubejs/assets/ticketing/models/item/ticket_machine.json"
+hash = "bff7a87f59784caedc8ea0423125878e305523ec6e74173ede1d2868be46ff2b"
+
+[[files]]
+file = "kubejs/assets/ticketing/sounds.json"
+hash = "95806a671883392fa1c159daf3db64093b7810e1c9cbe9365ad99bc18e1b2e82"
+
+[[files]]
+file = "kubejs/assets/ticketing/sounds/ticket_fwoop1.ogg"
+hash = "71fb96d98ee726b54dbf30b9b0c4fc197ebccfd3de7e64607a567e346d8f7277"
+
+[[files]]
+file = "kubejs/assets/ticketing/sounds/ticket_fwoop2.ogg"
+hash = "9778fadf5ce3848e3e247521033a2d429002ee117fc61d6d9b3c800aaa257592"
+
+[[files]]
+file = "kubejs/assets/ticketing/sounds/ticket_fwoop3.ogg"
+hash = "6cdec1c1c772e9d54f00310ebc9747c11047e720a0b2c82a6e09979ff1aeefe2"
+
+[[files]]
+file = "kubejs/assets/ticketing/sounds/ticket_fwoop4.ogg"
+hash = "77a8f4cc3c1ee818fa55d2c0b7919ea98e35ad59d9a2f051d93b248d564a140f"
+
+[[files]]
+file = "kubejs/assets/ticketing/sounds/ticket_supertear.ogg"
+hash = "11b6dbc9b91b9c14cf86e2aa7507773aacadc5fa9564026b76fc43fe01324e31"
+
+[[files]]
+file = "kubejs/assets/ticketing/sounds/ticket_tear1.ogg"
+hash = "e9e5452611b0ddc80d9973a98993a3256103e0bae3c58485196ed400d0169c43"
+
+[[files]]
+file = "kubejs/assets/ticketing/sounds/ticket_tear2.ogg"
+hash = "24616c64817b018bbc846048c392a17b9b4b0f4a8cd8ca4aa48a2c069d0b2f6e"
+
+[[files]]
+file = "kubejs/assets/ticketing/textures/block/ticket_machine.png"
+hash = "d68d9f8a7af636c1cf1968e2c20919e9584ebc6b42474272fe947e17fa70ec4a"
+
+[[files]]
+file = "kubejs/assets/ticketing/textures/block/ticket_reader.png"
+hash = "dd30043e63330f41a5392f483986c872c98cfd92058272f6ac32553254fee572"
+
+[[files]]
+file = "kubejs/assets/ticketing/textures/block/ticket_reader_powered.png"
+hash = "c7d47bd5e7701a4586802ac6864b4044112b576db4c0b579dcd7f5a2f05120c3"
+
+[[files]]
+file = "kubejs/assets/ticketing/textures/item/ticket.png"
+hash = "9c5acc500ba53ea32ac7038828a80575e18647ab222f0fbffc7174d92b09e4a9"
+
+[[files]]
+file = "kubejs/assets/ticketing/textures/item/ticket_machine.png"
+hash = "207ca2ec3552b7a87c22648b70ac6d93b8b23e448596ca069586f0a2acc7b9d8"
+
+[[files]]
+file = "kubejs/assets/ticketing/textures/item/ticket_reader.png"
+hash = "8b41d1608706c2b44ebb3c6c47c30209d9b306c5ab538fbd9e075be5a795c5c9"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "cb92716a2c2e474f69376271271226beee24e9a14db4a35b2d0ec43b88bde808"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "6b65aa90099777aafff548fdde01b23be427921f550c42f123d6c39cff9a7e0b"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "68626e7b46b7991b6263264cbce576b15b73244ee1e68661af6425f00d18ea65"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
+
+[[files]]
+file = "kubejs/server_scripts/src/ticket_reader.js"
+hash = "bea2746799289f29a4f6daffe3c041b578033a2c0e308ae2fa9064d4e05ea375"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+
+[[files]]
+file = "kubejs/startup_scripts/src/main.js"
+hash = "301982011fae6c8386fc81ca1921a3a02016a7c0f38e8f60ec2b1b0a82a76545"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
@@ -795,6 +915,16 @@ hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
 metafile = true
 
 [[files]]
+file = "mods/kubejs+cc-tweaked.pw.toml"
+hash = "1298a96ae85aea547ec1ac1e481d86159f5b16bab57cb19b1d2c487bb9b6b67a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
 metafile = true
@@ -882,6 +1012,11 @@ metafile = true
 [[files]]
 file = "mods/quality-sounds.pw.toml"
 hash = "11e53c0a87bd2aa39231083dda2a1ea90bffc7964130fe7f5d927e88a434df85"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "48294aa8ab9ab3c67618d3e48574d7a690bd25bf8b4b208e4409fd59c2a79c0c"
 metafile = true
 
 [[files]]

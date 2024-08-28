@@ -1,0 +1,24 @@
+{
+    "ticket.fwoop": {
+        "subtitle": "sound.ticketing:ticket.fwoop.subtitle",
+        "sounds": [
+            "ticketing:ticket_fwoop1",
+            "ticketing:ticket_fwoop2",
+            "ticketing:ticket_fwoop3",
+            "ticketing:ticket_fwoop4"
+        ]
+    },
+    "ticket.tear": {
+        "subtitle": "sound.ticketing:ticket.tear.subtitle",
+        "sounds": [
+            "ticketing:ticket_tear1",
+            "ticketing:ticket_tear2"
+        ]
+    },
+    "ticket.super_tear": {
+        "subtitle": "sound.ticketing:ticket.super_tear.subtitle",
+        "sounds": [
+            "ticketing:ticket_supertear"
+        ]
+    }
+}

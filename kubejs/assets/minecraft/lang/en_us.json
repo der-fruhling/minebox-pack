@@ -1,0 +1,9 @@
+{
+    "block.ticketing:ticket_machine.name": "Ticket Machine",
+    "block.ticketing:ticket_reader.name": "Ticket Reader",
+    "item.ticketing:ticket.name": "Ticket",
+    "sound.ticketing:ticket.fwoop.subtitle": "Ticket printed",
+    "sound.ticketing:ticket.tear.subtitle": "Ticket modified",
+    "sound.ticketing:ticket.super_tear.subtitle": "Ticket consumed",
+    "text.ticketing:ticket_reader.requires_computer_above": "This ticket reader requires a computer to be placed above it"
+}
