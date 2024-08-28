@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "83f1f089a96f0d89743702337cf8064ec676e7e4b9c19019530418785a0711d1"
+hash = "dde40088d01daa55acfb09bf799cd36b44b580a20ea25dc41724d93c38c979af"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
+hash = "d2e5e7098a0ced2706968b9802bafd4f579daa7d3b301f60f5dcccdd9e660f3f"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "96320bde9afd69623633debefbaa0d32224fe259ab668c34ad6eab95ba982b22"
+hash = "c9096bcc0400f043959aa6f642242f5215aac9b60cede8e85e8ade50039f78df"
 metafile = true
 
 [[files]]
@@ -932,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
+hash = "c3ad6bd05e3b684750725b2d0eac8162be1c5bc44b915c00022dc0f489a81d0b"
 metafile = true
 
 [[files]]
