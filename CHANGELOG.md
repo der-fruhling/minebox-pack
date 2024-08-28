@@ -7,5 +7,6 @@
   - **Custom mechanic:** Tickets, ticket machines, ticket readers
 - maybe added more idk?!
 - **Removed:** Show me your skin
+- **Removed:** Xaero's Minimap
 - **Updated:** Forge 47.3.6
 - **Updated:** Many mods
