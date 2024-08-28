@@ -474,7 +474,7 @@ hash = "6e768b0fb24b40fe12b7d815dcbbfa8e7e20e1be92581764f11f72332ec32bf4"
 
 [[files]]
 file = "kubejs/assets/minecraft/lang/en_us.json"
-hash = "8596da1e6b90d5d8e762e322fc1489ce0e4528b696c94321b4ad318bc18f7069"
+hash = "90760b120781906a47112af9ff643e2c749a676faa4b0ebf9967130370ad787b"
 
 [[files]]
 file = "kubejs/assets/ticketing/models/block/ticket_machine_with_ticket.json"
@@ -489,12 +489,12 @@ file = "kubejs/assets/ticketing/models/block/ticket_reader.json"
 hash = "df853a005ae962a9a797cff1b6f88056fc1291c6a3dc78f2b473342a0d37a55e"
 
 [[files]]
-file = "kubejs/assets/ticketing/models/block/ticket_reader_powered.json"
-hash = "b0358721a246c3fe5f5127dcfb69bc332461d10a9b0c08cb4432bbc30f698842"
+file = "kubejs/assets/ticketing/models/item/ticket_machine.json"
+hash = "6a39d877c4376683f1275281bb719af964bfba22a9296e2cbbd82a46568f3a98"
 
 [[files]]
-file = "kubejs/assets/ticketing/models/item/ticket_machine.json"
-hash = "bff7a87f59784caedc8ea0423125878e305523ec6e74173ede1d2868be46ff2b"
+file = "kubejs/assets/ticketing/models/item/ticket_reader.json"
+hash = "2cdf683234d6e0758b99aa17f2c7cd3fc69060760c639cceea2f049e23a45c60"
 
 [[files]]
 file = "kubejs/assets/ticketing/sounds.json"
@@ -537,10 +537,6 @@ file = "kubejs/assets/ticketing/textures/block/ticket_reader.png"
 hash = "dd30043e63330f41a5392f483986c872c98cfd92058272f6ac32553254fee572"
 
 [[files]]
-file = "kubejs/assets/ticketing/textures/block/ticket_reader_powered.png"
-hash = "c7d47bd5e7701a4586802ac6864b4044112b576db4c0b579dcd7f5a2f05120c3"
-
-[[files]]
 file = "kubejs/assets/ticketing/textures/item/ticket.png"
 hash = "9c5acc500ba53ea32ac7038828a80575e18647ab222f0fbffc7174d92b09e4a9"
 
@@ -566,7 +562,7 @@ hash = "6b65aa90099777aafff548fdde01b23be427921f550c42f123d6c39cff9a7e0b"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "68626e7b46b7991b6263264cbce576b15b73244ee1e68661af6425f00d18ea65"
+hash = "6cfe3181cee098835ba00d63a77d73eb186e1e6042412e2e389d55a236edb987"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -574,7 +570,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/ticket_reader.js"
-hash = "bea2746799289f29a4f6daffe3c041b578033a2c0e308ae2fa9064d4e05ea375"
+hash = "82ea32cf47fcd60ad6dad34c9421c41e8225a3881083c32d6774a4b74af10272"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -582,11 +578,11 @@ hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
 
 [[files]]
 file = "kubejs/startup_scripts/src/main.js"
-hash = "301982011fae6c8386fc81ca1921a3a02016a7c0f38e8f60ec2b1b0a82a76545"
+hash = "15dd019fb2f5812f8cbbcbe4c7b13dabf0bc4ac37c861121409104be00b099f9"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
+hash = "e794a0240ad915c2c8e43a04e6dfded947bf11f3895533dce2e6114cb250f373"
 metafile = true
 
 [[files]]
@@ -676,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "5a9d378eb47bc15a82d522f415ad0713a95dc63402f660355c429e45db74ea43"
+hash = "0eac2160f9f252888dde9f5e524ec8d4cfb1dde7f9cc0606899f4386ed7782d3"
 metafile = true
 
 [[files]]
@@ -716,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cafe.pw.toml"
-hash = "8b85afd6305d38c6bbc11756a004ec9ea1066734eb2bf41970fb0392fa7fca9e"
+hash = "b67d293753fd84920408ddfd0507dc2d6e4f83f6b4958882c77b961efdedb82b"
 metafile = true
 
 [[files]]
@@ -776,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "0bfa93d487f91b526d83622245091b3fec1d27c1b5b241b75bb26ea8e04806a8"
+hash = "0706d481fc6462ca2739b5284e9d60518b5c424dda2a61836d45f68faacbba0a"
 metafile = true
 
 [[files]]
@@ -866,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "a57a94bd0b6c4d001855ded88a01eb6dd4cae8f48852231b1a72d82a906f12f4"
+hash = "26c4f9eeaef4d8e6663a3d98f000998c21f4c74fc6ee0c4bd20d7acd49620eb6"
 metafile = true
 
 [[files]]
@@ -926,7 +922,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
+hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
 metafile = true
 
 [[files]]
@@ -941,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "e95e338b86bd8bd7ee373260e9096b7fa1346695bc65f220f4107fb0e15221ea"
+hash = "246531a97ee19e80eae7c9189d0e286668eec159c7b129e2f8f98163fe2f37e4"
 metafile = true
 
 [[files]]
@@ -951,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/megane-forge.pw.toml"
-hash = "ea0d3b3c24c47922cb1ac640b8300a8427bfc84977ca5c43ffa3027726ab8b69"
+hash = "29a117d808ac0e5ed32dac57fa5ac36c3c84bbfef428de2f10dd50e4ceaf01c7"
 metafile = true
 
 [[files]]
@@ -976,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "b81b3b67b1e89815465346fd77a275d32c96b37e58f06c2028b2e84f43d30e64"
+hash = "2df1fcdc6811cce439c5cae8142ba29196ff8f04f71f0c0074c198ff9364a262"
 metafile = true
 
 [[files]]
@@ -1046,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "58894386304eb743fbf5a5bc757c997df3d357f6c9acc64b2bb473d050110b3f"
+hash = "65d57814ec779568e45fdf79fd1056df5046cb909ff5165fb5c36c4e9182d88a"
 metafile = true
 
 [[files]]

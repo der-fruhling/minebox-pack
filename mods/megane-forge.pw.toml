@@ -1,6 +1,6 @@
 name = "Megane: Forge"
 filename = "megane-forge-20.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pcvCiEEP/versions/l5X5UdFL/megane-forge-20.1.1.jar"
