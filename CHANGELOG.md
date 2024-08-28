@@ -3,6 +3,8 @@
 - **Added:** Create: Pattern Schematics _(automaton)_
 - **Added:** Figura
 - **Added:** Concentration
+- **Added:** KubeJS
+  - **Custom mechanic:** Tickets, ticket machines, ticket readers
 - maybe added more idk?!
 - **Removed:** Show me your skin
 - **Updated:** Forge 47.3.6
