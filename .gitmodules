@@ -1,0 +1,3 @@
+[submodule "kubejs"]
+	path = kubejs
+	url = git@github.com:der-fruhling/minebox-kubejs.git
