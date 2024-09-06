@@ -1,8 +1,0 @@
-{
-    "block.ticketing:ticket_machine.name": "Fahrkartenautomat",
-    "block.ticketing:ticket_reader.name": "Fahrkartenprüfer",
-    "item.ticketing:ticket.name": "Fahrkarte",
-    "sound.ticketing:ticket.fwoop.subtitle": "Fahrkarte ausgedruckt",
-    "sound.ticketing:ticket.tear.subtitle": "Fahrkarte geändert",
-    "sound.ticketing:ticket.super_tear.subtitle": "Fahrkarte wird ungültig"
-}
