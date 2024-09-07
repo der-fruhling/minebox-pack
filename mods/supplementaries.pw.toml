@@ -3,11 +3,11 @@ filename = "supplementaries-1.20-2.8.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/KAx6eLAF/supplementaries-1.20-2.8.17.jar"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/eMF95dNK/supplementaries-1.20-2.8.17.jar"
 hash-format = "sha1"
-hash = "55ab43a1a9fc1f5ca4273c8c05403586f0c42fb6"
+hash = "b07b041e05693ebd7391015e0d8995aa6bc27e7e"
 
 [update]
 [update.modrinth]
 mod-id = "fFEIiSDQ"
-version = "KAx6eLAF"
+version = "eMF95dNK"

@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitmodules"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 
 [[files]]
@@ -310,16 +313,10 @@ file = "config/voicechat-client.toml"
 file = "config/voicechat/translations.properties"
 
 [[files]]
-file = "config/voicechat/username-cache.json"
-
-[[files]]
 file = "config/voicechat/voicechat-client.properties"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-
-[[files]]
-file = "config/voicechat/voicechat-volumes.properties"
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -403,6 +400,9 @@ file = "kubejs/assets/ticketing/textures/block/ticket_machine.png"
 file = "kubejs/assets/ticketing/textures/block/ticket_reader.png"
 
 [[files]]
+file = "kubejs/assets/ticketing/textures/item/blank_ticket.png"
+
+[[files]]
 file = "kubejs/assets/ticketing/textures/item/ticket.png"
 
 [[files]]
@@ -427,13 +427,25 @@ file = "kubejs/config/probe-settings.json"
 file = "kubejs/server_scripts/jsconfig.json"
 
 [[files]]
+file = "kubejs/server_scripts/src/chat.js"
+
+[[files]]
+file = "kubejs/server_scripts/src/info.json"
+
+[[files]]
+file = "kubejs/server_scripts/src/recipes.js"
+
+[[files]]
+file = "kubejs/server_scripts/src/ticket_machine.js"
+
+[[files]]
 file = "kubejs/server_scripts/src/ticket_reader.js"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 
 [[files]]
-file = "kubejs/startup_scripts/src/main.js"
+file = "kubejs/startup_scripts/src/ticketing.js"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"

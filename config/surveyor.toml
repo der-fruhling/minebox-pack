@@ -56,7 +56,7 @@ debugMode = false
 	# When NONE, waypoint data will never be synced (e.g. for privacy)
 	# options: NONE, SOLO, GROUP, SERVER
 	# default: SOLO
-	waypoints = "SOLO"
+	waypoints = "GROUP"
 	# [Server] How much player position data to send to clients
 	# SERVER sends all players positions, GROUP sends just group players, SOLO sends nothing, NONE sends nothing
 	# options: NONE, SOLO, GROUP, SERVER

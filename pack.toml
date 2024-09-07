@@ -1,6 +1,6 @@
 name = "Minebox Neo"
 author = "der_frühling"
-version = "3.0.11"
+version = "3.0.11b"
 pack-format = "packwiz:1.1.0"
 
 [index]
