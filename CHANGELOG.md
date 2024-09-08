@@ -1,18 +1,1 @@
-- Custom mechanics:
-  - Added blank tickets
-  - Ticket printers now require blank tickets to function
-  - Updated textures of tickets and related machines
-- **Updated:** Create to 0.5.1.h
-- **Updated:** Create: Pattern Schematics to 1.1.13
-- **Updated:** Create: Train Perspective to 1.0.0
-- **Updated:** Create: Interiors to 0.5.6
-- **Updated:** AmbientSoundws to 6.0.6
-- **Updated:** Amendments to 1.2.11
-- **Updated:** JEI to 15.17.0.76
-- **Updated:** Steam 'n' Rails to 1.6.5
-- **Updated:** Embeddium to 0.3.31
-- **Updated:** WTHIT 8.15.1
-- **Updated:** GraveStone Mod to 1.0.23
-- **Updated:** Simple Voice Chat to 2.5.21
-- **Updated:** ModernFix to 5.19.4
-- (also, pinned Moonlight Lib due to a crashing issue with the new version)
+- **Configure:** Work around conflict between Create and Create: Train Perspective
