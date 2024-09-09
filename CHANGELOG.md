@@ -1,1 +1,1 @@
-- **Configure:** Work around conflict between Create and Create: Train Perspective
+- **Configure:** Work around conflict between Create and Create: Train Perspective- **Added:** Northern Compass _(automaton)_
