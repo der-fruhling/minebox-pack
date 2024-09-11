@@ -764,6 +764,10 @@ file = "mods/noisium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/northerncompass.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 metafile = true
 

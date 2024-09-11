@@ -1,0 +1,13 @@
+name = "Northern Compass"
+filename = "NorthernCompass-Forge-1.20.1-1.0.16.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5QyCeANZ/versions/rUy3GtrV/NorthernCompass-Forge-1.20.1-1.0.16.jar"
+hash-format = "sha1"
+hash = "34c2489ec7a7e9cf5d3cd02370c5003b11b2f483"
+
+[update]
+[update.modrinth]
+mod-id = "5QyCeANZ"
+version = "rUy3GtrV"
