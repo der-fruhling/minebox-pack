@@ -1,1 +1,5 @@
 CHANGELOG.md
+.git*
+.packwizignore
+*.mrpack
+test-server

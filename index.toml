@@ -1,9 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitmodules"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 
 [[files]]
