@@ -274,6 +274,12 @@ file = "config/saturn-optimizations.toml"
 file = "config/seamless_loading_screen.json"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+
+[[files]]
 file = "config/snowundertrees-common.toml"
 
 [[files]]
@@ -548,6 +554,10 @@ file = "mods/coroutil.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 metafile = true
 
@@ -813,6 +823,10 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
 metafile = true
 
 [[files]]
