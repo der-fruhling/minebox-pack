@@ -678,6 +678,10 @@ file = "mods/fusion-connected-textures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 metafile = true
 
