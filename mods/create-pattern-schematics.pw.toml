@@ -1,13 +1,13 @@
 name = "Create: Pattern Schematics"
-filename = "pattern_schematics-1.1.13+forge-1.20.1.jar"
+filename = "pattern_schematics-1.1.15+forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cpqKG67r/versions/ZBrB0Adx/pattern_schematics-1.1.13%2Bforge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/cpqKG67r/versions/R0eFoZF4/pattern_schematics-1.1.15%2Bforge-1.20.1.jar"
 hash-format = "sha1"
-hash = "94d850d838a237bb634f5343c43add2ce273b4b8"
+hash = "dd725654a3515098fd4763e605f5d96f227c04e1"
 
 [update]
 [update.modrinth]
 mod-id = "cpqKG67r"
-version = "ZBrB0Adx"
+version = "R0eFoZF4"
