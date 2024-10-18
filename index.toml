@@ -867,6 +867,10 @@ file = "mods/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tetra-extras.pw.toml"
 metafile = true
 
