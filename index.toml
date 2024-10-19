@@ -743,10 +743,6 @@ file = "mods/libipn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lmd.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/longer-chat-history.pw.toml"
 metafile = true
 
